@@ -55,8 +55,7 @@ Report Connections: Right-clicked on the slicer, went to Report Connections, and
 
 ### Data Sources
 
-
-Sales Data: The primary dataset used for this analysis is the "Kirti Store Dataset.xlsx" file, containing detailed information about each sale made by the company.
+Sales Data: The primary dataset used for this analysis is the "Kirti Store Dataset.xlsx" file, containing detailed information about each sale made by the store and is attached in this repo.
 
 ### Exploratory Data Analysis
 
