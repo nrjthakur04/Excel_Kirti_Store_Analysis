@@ -1,10 +1,16 @@
-***Annual Sales Report for Kriti Store (2022)***
+#***Annual Sales Analysis for Kriti Store (2022)***
 
-Project Overview-
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Data Sources](#data-sources)
+- [Recommendations](#recommendations)
+
+### Project Overview
 
 In this project, we created an annual sales report for Kriti Store for the year 2022. The process involved data cleaning, processing, and analysis using Excel. Below are the detailed steps taken during the project.
 
-Steps Taken
+Steps Taken-
 
 1. Data Cleaning
 
@@ -46,40 +52,41 @@ Age Group Analysis: To determine the percentage of orders by age group, right-cl
 Slicer Integration: Slicers can only be added if it’s a pivot chart. Navigated to PivotChart Analyze, clicked on Insert Slicer, and selected the desired options.
 Report Connections: Right-clicked on the slicer, went to Report Connections, and made selections based on preferences to connect it with other sheets.
 
-#Some Questions and their Answers-
 
-1-Compare the sales and orders using single chart.
+### Data Sources
 
-Answer- Women are more likely to buy as compared to men (65%)
 
-2-Which month got the highest sales and orders?
+Sales Data: The primary dataset used for this analysis is the "Kirti Store Dataset.xlsx" file, containing detailed information about each sale made by the company.
 
-Answer-Maharashtra, Karnataka and Uttar Pradesh
+### Exploratory Data Analysis
 
-3-Who purchased more- men or women in 2022?
+EDA involved exploring the sales data to answer key questions, such as:
 
-Answer-Women
+- Compare the sales and orders using single chart.
+- Which month got the highest sales and orders?
+- Who purchased more- men or women in 2022?
+- What are the different order status in 2022?
+- List top 5 states contributing to the sales.
+- Relation between age and gender based on number of orders.
+- Which channel is contributing to the maximum sales?
+- Which is the highest selling category?
 
-4-What are the different order status in 2022?
+### Results/Findings
 
-Answer-
+The analysis results are summarized as follows:
+1. Women are more likely to buy as compared to men (65%)
+2. Maharashtra, Karnataka and Uttar Pradesh.
+3. Women
+4. .....
+5. Maharashtra, Karnataka and Uttar Pradesh
+6. Adult age group (30-49 yrs) is maximum contributing (50%)
+7. Amazon, Flipkart and Myntra are max contributing (80%)
+8. .......
 
-5-List top 5 states contributing to the sales.
 
-Answer- Maharashtra, Karnataka and Uttar Pradesh
+### Recommendations
 
-6-Relation between age and gender based on number of orders.
-
-Answer- Adult age group (30-49 yrs) is maximum contributing (50%)
-
-7-Which channel is contributing to the maximum sales?
-
-Answer- Amazon, Flipkart and Myntra are max contributing (80%)
-
-8-Which is the highest selling category?
-
-Answer-
-
-Final Conclusion to improve Kirti store sales-
-
-Target women customers of age group (30-49 yrs) living in Maharashtra, Karnataka and Uttar Pradeshby showing ads,offers,coupons available on Amazon, Flipkart and Myntra
+Based on the analysis, we recommend the following actions:
+- Target Audience: Focus on women aged 30-49 years in Maharashtra, Karnataka, and Uttar Pradesh.
+- Platforms: Utilize Amazon, Flipkart, and Myntra to showcase ads, offers, and coupons.
+- Localization: Customize campaigns with regional targeting for higher engagement.
