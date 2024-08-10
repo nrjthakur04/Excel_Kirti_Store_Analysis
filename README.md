@@ -75,6 +75,9 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 ### Results/Findings
 
+![visualisation](https://github.com/user-attachments/assets/bf583a93-4dbf-4b42-a9f7-08f0f7712099)
+
+
 The analysis results are summarized as follows:
 1. Women are more likely to buy as compared to men (65%)
 2. Maharashtra, Karnataka and Uttar Pradesh.
