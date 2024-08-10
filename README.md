@@ -1,4 +1,4 @@
-#***Annual Sales Analysis for Kriti Store (2022)***
+# Annual Sales Analysis for Kriti Store (2022)
 
 ## Table of Contents
 
