@@ -3,14 +3,17 @@
 ## Table of Contents
 
 - [Project Overview](#project-overview)
+- [Steps Taken](#steps-taken)
 - [Data Sources](#data-sources)
 - [Recommendations](#recommendations)
 
 ### Project Overview
 
-In this project, we created an annual sales report for Kriti Store for the year 2022. The process involved data cleaning, processing, and analysis using Excel. Below are the detailed steps taken during the project.
+This data analysis project aims to provide insights into the sales performance of the Kirti store over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the store's performance.
 
-Steps Taken-
+### Steps Taken
+
+In this project, we created an annual sales report for Kriti Store for the year 2022. The process involved data cleaning, processing, and analysis using Excel. Below are the detailed steps taken during the project.
 
 1. Data Cleaning
 
