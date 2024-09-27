@@ -13,7 +13,7 @@ This data analysis project aims to provide insights into the sales performance o
 
 ### Steps Taken
 
-In this project, we created an annual sales report for Kriti Store for the year 2022. The process involved data cleaning, processing, and analysis using Excel. Below are the detailed steps taken during the project.
+In this project, I've created an annual sales report for Kriti Store for the year 2022. The process involved data cleaning, processing, and analysis using Excel. Below are the detailed steps taken during the project.
 
 1. Data Cleaning
 
