@@ -89,14 +89,24 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 
 The analysis results are summarized as follows:
-1. Women are more likely to buy as compared to men (65%)
-2. Maharashtra, Karnataka and Uttar Pradesh.
-3. Women
-4. .....
-5. Maharashtra, Karnataka and Uttar Pradesh
-6. Adult age group (30-49 yrs) is maximum contributing (50%)
-7. Amazon, Flipkart and Myntra are max contributing (80%)
-8. .......
+1. From the above sales dashboard we can compare sales and     
+   orders as per our business need.
+2. The highest sales occured in the month of March with 2819 
+   orders. 
+3. Women (64%) are more likely to buy as compared to men (36%).
+4. Order Status-
+   Delivered- 92%
+   Refunded-  2%
+   Returned-  3%
+   Cancelled- 3%
+5. Maharashtra, Karnataka, Uttar Pradesh, Telangana and Tamil Nadu.
+6.  Age-Group    Men    Women
+     Adult    15.47%  34.59%
+     Senior   5.91%   13.70%
+     Teenager 9.20%   21.13%
+   Adult age group (30-49 yrs) is maximum contributing (50%)
+7. Amazon(35%), Flipkart(22%) and Myntra(23%) are max contributing (80%)
+8. The highest selling category is Set(39.9%) followed by Kurta(33.6%) and Western Dress(13.1%).
 
 
 ### Recommendations
