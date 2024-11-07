@@ -9,7 +9,7 @@
 
 ### Project Overview
 
-This data analysis project aims to provide insights into the sales performance of the Kirti store over the past year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the store's performance.
+This data analysis project aims to provide insights into the sales performance of the Kirti store over the year. By analyzing various aspects of the sales data, we seek to identify trends, make data-driven recommendations, and gain a deeper understanding of the store's performance. So that, Kirti store can understand their customers and grow more sales in 2025.
 
 ### Steps Taken
 
@@ -76,8 +76,8 @@ EDA involved exploring the sales data to answer key questions, such as:
 
 - Compare the sales and orders using single chart.
 - Which month got the highest sales and orders?
-- Who purchased more- men or women in 2022?
-- What are the different order status in 2022?
+- Who purchased more- men or women in 2024?
+- What are the different order status in 2024?
 - List top 5 states contributing to the sales.
 - Relation between age and gender based on number of orders.
 - Which channel is contributing to the maximum sales?
